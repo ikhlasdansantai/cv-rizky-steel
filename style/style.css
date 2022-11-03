@@ -330,6 +330,7 @@ main {
 .fast-contact-chat {
   justify-content: space-between;
   flex-direction: column;
+  align-items: flex-start;
   row-gap: 1rem;
   padding: var(--padding);
   border: 2px solid #333;
