@@ -560,7 +560,6 @@ footer {
 @media (min-width: 800px) and (max-width: 900px) {
   header {
     height: inherit;
-    border: 5px solid red;
   }
   .header-main-contents {
     --padding: 4rem 0;
